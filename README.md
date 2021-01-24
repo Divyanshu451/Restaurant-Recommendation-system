@@ -7,4 +7,4 @@ To create the Restaurant recommendation system, I will create a content-based re
 
 TF-IDF (Term Frequency-Inverse Document Frequency) vectors for each document. This will give you a matrix where each column represents a word in the general vocabulary (all words that appear in at least one document) and each column represents a restaurant, as before.
 
-TF-IDF is the statistical method of assessing the meaning of a word in a given document. Now, I will use the TF-IDF vectorization on the dataset:
+TF-IDF is the statistical method of assessing the meaning of a word in a given document. We have use the TF-IDF vectorization on the dataset:
